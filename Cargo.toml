@@ -1,0 +1,8 @@
+[package]
+name = "efs"
+authors = ["Maldan"]
+edition = "2018"
+version = "0.0.1"
+
+[dependencies]
+paste = "0.1"

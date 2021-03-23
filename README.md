@@ -1,0 +1,5 @@
+- Get only file list
+- Get file & dir list
+- Get file size
+- Get file as text
+- Get file as binary
